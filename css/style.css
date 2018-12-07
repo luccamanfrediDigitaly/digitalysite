@@ -9,8 +9,9 @@ body{
 }
 
 #topo {
-    background-image: url('../img/bg-topo.png');
+    background-image: url('../img/bg-topo3.jpg');
     background-size: cover;
+    background-position-x: center;
     height: 500px;
     width: auto;
 }
